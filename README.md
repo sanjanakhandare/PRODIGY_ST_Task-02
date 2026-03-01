@@ -128,3 +128,12 @@ Website Type: E-commerce Demo Website
 📚 Conclusion
 
 Cross-browser and cross-device compatibility testing is essential to deliver a reliable and user-friendly web experience. This project demonstrates practical testing techniques and solutions to ensure consistent website performance across platforms.
+
+---
+
+## 👨‍💻 Author
+
+**Sanjana Khandare**  
+PRODIGY InfoTech – Software Testing Internship  
+GitHub: https://github.com/sanjanakhandare
+
